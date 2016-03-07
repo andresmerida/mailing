@@ -1,0 +1,9 @@
+<html>
+<body>
+<h3>Hi ${user.name}, we are testing registration confirmation :)!</h3>
+
+<div>
+    Your email address is <a href="mailto:${user.email}">${user.login}</a>.
+</div>
+</body>
+</html>
