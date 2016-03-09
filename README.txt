@@ -12,3 +12,6 @@
     2.	Access the URL as https://www.google.com/settings/security/lesssecureapps
     3.	Select "Turn on" To send email correctly you have to check Turn on or Activar in Spanish.
         If you don't turn on you cannot send emails.
+
+
+You can see all instruction in this blog "http://andresmerida1.blogspot.com/"
